@@ -80,10 +80,14 @@ Diferente de simuladores simples, esta planilha permite uma visão estratégica 
 
 ---
 
-### 🤝 Contribua
+---
 
-Sinta-se à vontade para sugerir melhorias via fork ou issue 🙌  
-Esse projeto é um ponto de partida para novas ideias!
+### 💬 Contato
+
+Caso queira trocar uma ideia, me chama:
+
+- [LinkedIn](https://www.linkedin.com/in/priscilafarias-dev)  
+- [GitHub](https://github.com/Pri-Farias)
 
 ---
 
@@ -158,11 +162,12 @@ Unlike basic simulators, this spreadsheet provides a **strategic, realistic, and
 
 ---
 
-### 🤝 Contribute
+### 💬 Contact
 
-Feel free to fork this project or suggest improvements via Issues or PRs 🙌  
-This template can be a foundation for more advanced financial models!
+Feel free to reach out:
 
+- [LinkedIn](https://www.linkedin.com/in/priscilafarias-dev)  
+- [GitHub](https://github.com/Pri-Farias)
 ---
 
 <p align="center"><em>"Today's code is always better than yesterday's!"</em></p>
