@@ -1,4 +1,7 @@
-![banner](https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png)
+<p align="center">
+  <img src="(https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png)" alt="Texto alternativo" width="500"/>
+</p>
+
 <p align="center"><em>Construa sua Renda Passiva de Forma Inteligente com o poder do Excel</em></p>
 
 ---
