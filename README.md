@@ -1,4 +1,4 @@
-![banner]([URL-ou-caminho-da-imagem](https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png))
+![banner](https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png)
 <p align="center"><em>Construa sua Renda Passiva de Forma Inteligente com o poder do Excel</em></p>
 
 ---
