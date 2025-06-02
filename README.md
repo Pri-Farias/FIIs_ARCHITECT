@@ -43,12 +43,18 @@ Diferente de simuladores simples, esta planilha permite uma visão estratégica 
 
 ### 💡 Como Usar
 
-1. **Acesse o Dashboard**  
-2. **Preencha os Dados da Simulação**  
-3. **Escolha o Cenário (Otimista, Base, Pessimista)**  
-4. **Acompanhe os KPIs e Gráficos em Tempo Real**  
-5. **Use a função "Atingir Meta" para otimizar aportes**
-
+1. **Acesse o Dashboard**: É o painel central de simulação.
+2. **Configure a Simulação**:
+   - Meta de Renda Mensal (C24)
+   - Período em anos (C25)
+   - Aporte Inicial (C26) e Mensal (C27)
+   - % Papel (C28) e % Tijolo (C29) → deve somar 100%
+3. **Escolha o Cenário (C31)**: Otimista, Base ou Pessimista.
+4. **Analise os Resultados em Tempo Real**:
+   - KPIs, gráficos e sugestões atualizam automaticamente.
+5. **Use a Otimização Interativa**:
+   - Digite a meta em C72
+   - Ajuste o Aporte Mensal (C27) até atingir a meta (C38).
 ---
 
 ### 🎨 Sobre o Design
@@ -121,12 +127,12 @@ Unlike basic simulators, this spreadsheet provides a **strategic, realistic, and
 
 ### 💡 How to Use
 
-1. **Open the Dashboard**  
-2. **Input Your Simulation Data**  
-3. **Select a Market Scenario**  
-4. **Review Real-Time KPIs and Charts**  
-5. **Use Goal Simulation to Adjust Contributions**
-
+1. **Access the Dashboard**: This is the central simulation panel.
+2. **Set Up the Simulation**:- Monthly Income Goal (C24)- Period in years (C25)- Initial Investment (C26) and Monthly Investment (C27)- % Stock (C28) and % Real Estate (C29) → must add up to 100%.
+3. **Choose the Scenario (C31)**: Optimistic, Base or Pessimistic.
+4. **Analyze Results in Real Time**:- KPIs, graphs, and suggestions update automatically.
+5. **Use Interactive Optimization**:- Enter the goal in C72- Adjust the Monthly Investment (C27) until you reach the goal (C38).
+   
 ---
 
 ### 🎨 Design Focus
