@@ -3,9 +3,11 @@
 
 ---
 
+## 🇧🇷 Versão em Português
+
 ### 🚀 Sobre o Projeto
 
-O **FIIs ARCHITECT** é uma ferramenta interativa desenvolvida em **Microsoft Excel** para auxiliar investidores a planejarem sua renda passiva com **Fundos de Investimento Imobiliário (FIIs)**. 
+O **FIIs ARCHITECT** é uma ferramenta interativa desenvolvida em **Microsoft Excel** para auxiliar investidores a planejarem sua renda passiva com **Fundos de Investimento Imobiliário (FIIs)**.  
 
 Diferente de simuladores simples, esta planilha permite uma visão estratégica e otimizada do crescimento patrimonial, com base em **cenários realistas de mercado**.
 
@@ -16,28 +18,12 @@ Diferente de simuladores simples, esta planilha permite uma visão estratégica 
 ### ✨ Funcionalidades Principais
 
 - 📈 **Simulador de Meta de Renda Passiva**  
-  Calcule o aporte necessário para atingir sua renda passiva em X anos.
-
 - 🔄 **Análise de Cenários (Otimista, Base, Pessimista)**  
-  Visualize os impactos de diferentes realidades de mercado.
-
-- 🧱 **Diversificação Inteligente**  
-  Simule alocação entre FIIs de Papel e Tijolo.
-
-- 📅 **Projeção Mês a Mês**  
-  Acompanhe o crescimento da renda e patrimônio ao longo do tempo.
-
-- 📊 **Dashboard com KPIs**  
-  Veja patrimônio final, renda mensal e total investido de forma clara.
-
-- 📉 **Gráficos Dinâmicos**  
-  Acompanhe visualmente a evolução da sua jornada financeira.
-
-- 🤖 **Insights com “IA” integrada**  
-  Sugestões contextuais baseadas nos resultados da simulação.
-
-- ✅ **Validação de Dados**  
-  Alertas automáticos para impedir entradas inválidas (como soma ≠ 100%).
+- 🧱 **Diversificação Inteligente entre FIIs de Papel e Tijolo**  
+- 📅 **Projeção mês a mês do crescimento patrimonial**  
+- 📊 **Dashboard com KPIs e Gráficos Dinâmicos**  
+- 🤖 **Simulação com lógica de "IA" automatizada**  
+- ✅ **Validação de Dados e Prevenção de Erros**
 
 ---
 
@@ -57,58 +43,120 @@ Diferente de simuladores simples, esta planilha permite uma visão estratégica 
 
 ### 💡 Como Usar
 
-1. **Acesse o Dashboard**: É o painel central de simulação.
-2. **Configure a Simulação**:
-   - Meta de Renda Mensal (C24)
-   - Período em anos (C25)
-   - Aporte Inicial (C26) e Mensal (C27)
-   - % Papel (C28) e % Tijolo (C29) → deve somar 100%
-3. **Escolha o Cenário (C31)**: Otimista, Base ou Pessimista.
-4. **Analise os Resultados em Tempo Real**:
-   - KPIs, gráficos e sugestões atualizam automaticamente.
-5. **Use a Otimização Interativa**:
-   - Digite a meta em C72
-   - Ajuste o Aporte Mensal (C27) até atingir a meta (C38).
+1. **Acesse o Dashboard**  
+2. **Preencha os Dados da Simulação**  
+3. **Escolha o Cenário (Otimista, Base, Pessimista)**  
+4. **Acompanhe os KPIs e Gráficos em Tempo Real**  
+5. **Use a função "Atingir Meta" para otimizar aportes**
 
 ---
 
 ### 🎨 Sobre o Design
 
-- Desenvolvido no **Excel Web (Microsoft 365)**.
-- Foco em **simplicidade**, **clareza** e **experiência do usuário (UX)**.
-- Algumas limitações visuais da versão web foram contornadas com soluções criativas.
+- Desenvolvido no **Excel Web (Microsoft 365)**  
+- Foco em **UX**, clareza visual e fácil navegação
 
 ---
 
-### 🧩 Desafios Técnicos Superados
+### 🧩 Desafios Superados
 
-- ❌ **Erro com LIN() não reconhecido**: Corrigido com testes e ajustes manuais.
-- 🔒 **Validação de 100% dos Percentuais**: Superado com fórmulas avançadas e mensagens de erro personalizadas.
-
-Esses obstáculos fortaleceram minha habilidade em **depuração**, **resolução de problemas** e uso estratégico do Excel.
+- 🔧 Correção de fórmulas quebradas (LIN, ANO etc)  
+- 🔒 Implementação de validação personalizada para soma de percentuais
 
 ---
 
 ### 📊 Resultados Esperados
 
-Ao usar o FIIs ARCHITECT, o usuário poderá:
-
-✅ Criar um plano realista para independência financeira.  
-✅ Compreender os impactos das decisões de alocação.  
-✅ Simular o futuro com cenários plausíveis.  
-✅ Ter clareza e confiança para investir melhor.
+✅ Criar um plano realista para independência financeira  
+✅ Compreender os impactos das decisões de alocação  
+✅ Simular o futuro com base em dados  
+✅ Tomar decisões com confiança
 
 ---
 
-### 🤝 Contribuições
+### 🤝 Contribua
 
-Se quiser sugerir melhorias ou usar essa estrutura em outro projeto, fique à vontade para abrir um issue ou fork. A comunidade só cresce com colaboração 💙
+Sinta-se à vontade para sugerir melhorias via fork ou issue 🙌  
+Esse projeto é um ponto de partida para novas ideias!
 
 ---
 
-### 🧠 Curtiu o projeto?
+## 🇺🇸 English Version
 
-Me siga aqui no GitHub para mais soluções criativas com tecnologia e dados.  
+### 🚀 About the Project
+
+**FIIs ARCHITECT** is an interactive tool developed with **Microsoft Excel** to help investors plan their passive income using **Real Estate Investment Funds (REIFs)** (Brazilian FIIs).  
+
+Unlike basic simulators, this spreadsheet provides a **strategic, realistic, and optimized** vision for long-term wealth building.
+
+> 🧠 Created as part of the "**Build a Winning Portfolio**" challenge from the **Excel with AI** course by **DIO** and **Santander Open Academy**.
+
 ---
 
-<p align="center"><em>"O código de hoje é sempre melhor que o de ontem!"</em></p>
+### ✨ Key Features
+
+- 📈 **Passive Income Target Simulator**  
+- 🔄 **Scenario Analysis (Optimistic, Base, Pessimistic)**  
+- 🧱 **Smart Diversification: Paper vs Brick REIFs**  
+- 📅 **Month-by-Month Projection of Wealth Growth**  
+- 📊 **Dynamic Dashboard with KPIs and Charts**  
+- 🤖 **“AI”-like logic for automated decision making**  
+- ✅ **Smart Data Validation and Input Control**
+
+---
+
+### 🛠️ Excel Concepts Used
+
+| Excel Feature | Application |
+|---------------|-------------|
+| **Named Ranges & Tables** | Dynamic data structure |
+| **INDEX + MATCH** | Advanced lookup logic |
+| **IF / OR Functions** | Scenario-based logic |
+| **DATE / YEAR / ROW Functions** | Time simulation by month |
+| **Custom Validation** | Prevent user errors |
+| **Goal-Seeking Simulation** | Optimize monthly investments |
+| **“AI-like” Modeling** | Insight generation via formulas |
+
+---
+
+### 💡 How to Use
+
+1. **Open the Dashboard**  
+2. **Input Your Simulation Data**  
+3. **Select a Market Scenario**  
+4. **Review Real-Time KPIs and Charts**  
+5. **Use Goal Simulation to Adjust Contributions**
+
+---
+
+### 🎨 Design Focus
+
+- Built with **Excel for the Web (Microsoft 365)**  
+- Clean UI, intuitive UX, mobile-compatible layout
+
+---
+
+### 🧩 Challenges Solved
+
+- Fixed formula errors (e.g., missing ROW/LIN)  
+- Created custom error messages and 100% validation logic
+
+---
+
+### 📊 Expected Impact
+
+✅ Plan your financial independence with confidence  
+✅ Understand how your allocation affects long-term goals  
+✅ Visualize and simulate realistic future outcomes  
+✅ Take control of your investment strategy
+
+---
+
+### 🤝 Contribute
+
+Feel free to fork this project or suggest improvements via Issues or PRs 🙌  
+This template can be a foundation for more advanced financial models!
+
+---
+
+<p align="center"><em>"Today's code is always better than yesterday's!"</em></p>
