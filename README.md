@@ -96,7 +96,9 @@ Caso queira trocar uma ideia, me chama:
 
 ## 🇺🇸 English Version
 
-![banner]([URL-ou-caminho-da-imagem](https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png))
+<p align="center">
+  <img src="https://i.postimg.cc/fW2gt9q9/Captura-de-tela-2025-05-29-173126.png" alt="Banner" width="500"/>
+</p>
 
 ### 🚀 About the Project
 
