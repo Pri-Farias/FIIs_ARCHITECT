@@ -59,16 +59,16 @@ Diferente de simuladores simples, esta planilha permite uma visão estratégica 
 
 1. **Acesse o Dashboard**: É o painel central de simulação.
 2. **Configure a Simulação**:
-   - Meta de Renda Mensal (B3)
-   - Período em anos (B5)
-   - Aporte Inicial (B7) e Mensal (B9)
-   - % Papel (B11) e % Tijolo (B12) → deve somar 100%
-3. **Escolha o Cenário (B14)**: Otimista, Base ou Pessimista.
+   - Meta de Renda Mensal (C24)
+   - Período em anos (C25)
+   - Aporte Inicial (C26) e Mensal (C27)
+   - % Papel (C28) e % Tijolo (C29) → deve somar 100%
+3. **Escolha o Cenário (C31)**: Otimista, Base ou Pessimista.
 4. **Analise os Resultados em Tempo Real**:
    - KPIs, gráficos e sugestões atualizam automaticamente.
 5. **Use a Otimização Interativa**:
-   - Digite a meta em B32
-   - Ajuste o Aporte Mensal (B9) até atingir a meta (B26).
+   - Digite a meta em C72
+   - Ajuste o Aporte Mensal (C27) até atingir a meta (C38).
 
 ---
 
@@ -109,9 +109,6 @@ Se quiser sugerir melhorias ou usar essa estrutura em outro projeto, fique à vo
 ### 🧠 Curtiu o projeto?
 
 Me siga aqui no GitHub para mais soluções criativas com tecnologia e dados.  
-Ah, e sim:  
-> **Eu tomo coca-cola codando ☕. Não julgue.**
-
 ---
 
 <p align="center"><em>"O código de hoje é sempre melhor que o de ontem!"</em></p>
